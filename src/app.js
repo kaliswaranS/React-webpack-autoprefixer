@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 function App() {
   return (
-    <h1>My Favourite Lyrics</h1>
+    <h1>My React App</h1>
   );
 }
 
